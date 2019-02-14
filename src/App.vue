@@ -1,26 +1,37 @@
 <template>
-  <div id="app">
-    <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="Welcome to Your Vue.js App"/>
-  </div>
+    <div class="main">
+        <name></name>
+        <education></education>
+        <skill></skill>
+        <work></work>
+        <project></project>
+        <profile></profile>
+        
+    </div>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+import Name from "./components/Name";
+import Education from "./components/Education";
+import Skill from "./components/Skill";
+import Project from './components/Project';
+import Work from './components/Work';
+import Profile from './components/Profile';
 
 export default {
-  name: 'app',
-  components: {
-    HelloWorld
-  }
-}
+    components: {
+        Name,
+        Education,
+        Skill,
+        Project,
+        Work,
+        Profile
+    }
+};
 </script>
-<style lang="stylus">
-#app
-  font-family 'Avenir', Helvetica, Arial, sans-serif
-  -webkit-font-smoothing antialiased
-  -moz-osx-font-smoothing grayscale
-  text-align center
-  color #2c3e50
-  margin-top 60px
+
+<style lang='stylus' scoped>
+.main
+  width 800px
 </style>
+
