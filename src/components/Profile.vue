@@ -12,9 +12,6 @@
                 href="https://github.com/myWsq/angular-todo"
             >https://github.com/myWsq/angular-todo</a>
         </p>
-        <p>- 本简历亦使用HTML书写:
-            <a href="https://github.com/myWsq/resume">https://github.com/myWsq/resume</a>
-        </p>
     </div>
 </template>
 
