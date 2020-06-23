@@ -2,45 +2,71 @@
     <div>
         <h3>项目经历</h3>
         <h4 class="row">
-            <span>蓝灯鱼智能检索平台</span>
-            <span>2018.10-至今</span>
+            <span>miui.com | MIUI 官网</span>
+            <span>2020.4</span>
         </h4>
+        <p>负责 PC 和移动端整体架构和部分页面的开发</p>
         <ul>
-            <li>- 前端使用Vue\Nuxt ElementUI, 制定前端开发规范, 构建前端开发框架, 同时担任UI设计, 完成所有页面编写.</li>
-            <li>- 后台使用Nest.js, 重新制定后台开发规范, 规范鉴权逻辑, 规范异常处理, 添加多语言, 添加统一的字段验证, 分离业务代码与功能代码. 重构后台开发框架, 制定API交互规范.</li>
-            <li>- 编写CircleCI脚本, 构建持续集成, 持续交付, 持续部署流程. 使用 Minio 完成文件服务器构建, 分离算法层, 业务层, 文件层, 构建基于Redis的缓存层. 构建基于Git Flow的开发流程.</li>
-            <li>
-                - 项目开发预览地址:
-                <a href="https://dev.lanternfish.ai">https://dev.lanternfish.ai</a> 使用任意账号密码登录
-            </li>
+            <li>- 100+ 页面, 10000+ 资源, 19天开发完成, 50小时极限重</li>
+            <li>- 极致性能优化;</li>
+            <li>- 数千万 PV, 高可用 SSR 服务</li>
         </ul>
         <h4 class="row">
-            <span>北京邮电大学 长顺志愿扶贫项目</span>
-            <span>2017.10-2018.6</span>
+            <span>Folme 物理动画引擎</span>
+            <span>2020.1</span>
         </h4>
+        <p>负责引擎的全部开发工作</p>
         <ul>
-            <li>- 响应国家, 学校号召, 为国家贫困县开发农产品信息发布平台.</li>
-            <li>- 担任技术负责人。 负责产销对接平台的架构与开发, 前端使用 Vue Vuetify, 后端使用 Prisma 提供 GraphQL API. 负责景区售票平台的前端开发, 使用Vue Element. 负责产销对接可视化数据库客户端的开发, 使用Vue Electron</li>
-            <li>
-                - 项目地址:
-                <a href="https://github.com/ymz-studio/cshunWebsite">https://github.com/ymz-studio/cshunWebsite</a>
-                &nbsp;
-                <a
-                    href="https://github.com/ymz-studio/cshun-website-prisma"
-                >https://github.com/ymz-studio/cshun-website-prisma</a>
-                &nbsp;
-                <a
-                    href="https://github.com/ymz-studio/cshunTool"
-                >https://github.com/ymz-studio/cshunTool</a>
-            </li>
+            <li>- 相对全面, 业界性能最强的 JavaScript 物理动画引擎;</li>
+            <li>- 原生 JavaScript, 零依赖, 小巧优雅, 万余字的详细文档和 demo;</li>
+            <li>- 可以实现 MIUI 12 中的任何物理动画效果;</li>
+            <li>- 动画参数互通, 开发与设计零沟通成本;</li>
+            <li>- npm install @folmejs/core, 文档未来将会开放</li>
         </ul>
         <h4 class="row">
-            <span>国家教育部 产学合作协同育人</span>
-            <span>2017.6 - 2017.10</span>
+            <span>Folme 动效组件库</span>
+            <span>2020.4</span>
         </h4>
+        <p>项目发起人, 负责组件库的全部开发工作</p>
         <ul>
-            <li>- 以腾讯公司微信校园卡项目为载体, 建设校园电子校园卡服务.</li>
-            <li>- 担任项目负责人。 负责项目整体的架构开发以及行政对接. 前端使用 Bootstrap Jquery, 后端使用 Django 进行服务端渲染.</li>
+            <li>- 基于 WebComponent 的跨框架组件库, 可以在任何环境下使用;</li>
+            <li>- 提供按需加载, 开箱即用, 体积小, 高性能的动效组件;</li>
+            <li>- 沉淀各个的动画效果最佳解决方案, 并且持续优化;</li>
+            <li>- MIUI 12 官网中使用 Folme 组件库提供的高性能帧动画播放器, 未来将会开源</li>
+        </ul>
+        <h4 class="row">
+            <span>font.sec.miui.com | 小米字体服务</span>
+            <span>2019</span>
+        </h4>
+        <p>项目发起人, 负责前后端全部开发工作</p>
+        <ul>
+            <li>- 对标 Google Fonts, 提供简体中文与西文在线字体;</li>
+            <li>- 优化分片策略, 简体中文相比 Google Fonts 加载速度提升约30%;</li>
+            <li>- 提供稳定的, 快速的高可用服务;</li>
+            <li>- 管理员可上传字体, 系统自动完成分片;</li>
+            <li>- 已开放 小米兰亭 Pro 字体, MIUI 12 官网使用此服务</li>
+        </ul>
+        <h4 class="row">
+            <span>p.sec.miui.com | 小米隐私合规检测平台 (实习期项目)</span>
+            <span>2019</span>
+        </h4>
+        <p>负责全部前端开发工作, 部分真机调试后端开发工作</p>
+        <ul>
+            <li>- 前端数据处理, 数据可视化</li>
+            <li>- 可直接操作真机进行测试;</li>
+        </ul>
+        <h4 class="row">
+            <span>效率提升工程其他项目</span>
+            <span>2019/2020</span>
+        </h4>
+        <p>以下项目本人发起, 并负责前后端全部开发工作</p>
+        <ul>
+            <li>- (进行中) 对标 Auth0, 小米内部通用用户管理服务;</li>
+            <li>- (进行中) 通用配置/秘钥管理平台, 提供完善的信息管理服务, 可直接通过 curl 设置当前环境的环境变量;</li>
+            <li>- (进行中) 小米通用服务平台. 微前端架构, 聚合通用服务;</li>
+            <li>- 统一 Gitlab CI 模板, 使用 include 引入模板, 配置几个环境变量即可实现持续集成, 持续交付, 持续部署, 前后端项目均支持;</li>
+            <li>- FDS (小米自研对象存储系统) Nodejs SDK 开发;</li>
+            <li>- EMQ (小米自研消息队列系统) Nodejs SDK 开发;</li>
         </ul>
     </div>
 </template>

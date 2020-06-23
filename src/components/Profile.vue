@@ -1,17 +1,10 @@
 <template>
     <div>
-        <h3>个人评价</h3>
-        <p>- 热爱前端领域，有很强的自驱. 善于从整体把握事物, 有很强的责任心和认真工作的态度, 力求又快又好的完成任务.</p>
-        <p>
-            - 善于总结, 喜欢写文章:
-            <a href="https://wsq.cool/article/">https://wsq.cool/article</a>
-            &nbsp;
-            <a href="https://wsq.cool/css-secret/#/">https://wsq.cool/css-secret</a>
-            &nbsp;
-            <a
-                href="https://github.com/myWsq/angular-todo"
-            >https://github.com/myWsq/angular-todo</a>
-        </p>
+        <h3>其他经历</h3>
+        <p>- 开源项目: Processor, 高性能, 优雅, 轻量级的前端数据处理工具. https://github.com/myWsq/processor;</p>
+        <p>- 确立组内统一 Git 工作流, 前后端高可用服务技术架构和开发规范, 为组内搭建基于 Kubernetes 的基础服务套件</p>
+        <p>- 输出数万字的文档, 教程, 心得;</p>
+        <p>- MIUI 学院讲师</p>
     </div>
 </template>
 

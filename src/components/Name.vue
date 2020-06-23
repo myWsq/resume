@@ -3,9 +3,9 @@
         <div class="container">
             <h1>王帅琪</h1>
             <div>
+                <h2>博客: wsq.cool</h2>
                 <h2>电子邮箱: wsq961@outlook.com</h2>
                 <h2>手机号码: 18810256515</h2>
-                <h2>Github: <a href="https://github.com/myWsq">https://github.com/myWsq</a></h2>
             </div>
         </div>
     </div>

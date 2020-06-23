@@ -1,12 +1,11 @@
 <template>
     <div class="main">
         <name></name>
-        <education></education>
-        <skill></skill>
         <work></work>
         <project></project>
+        <education></education>
         <profile></profile>
-        
+        <skill></skill>
     </div>
 </template>
 
@@ -14,19 +13,19 @@
 import Name from "./components/Name";
 import Education from "./components/Education";
 import Skill from "./components/Skill";
-import Project from './components/Project';
-import Work from './components/Work';
-import Profile from './components/Profile';
+import Project from "./components/Project";
+import Work from "./components/Work";
+import Profile from "./components/Profile";
 
 export default {
-    components: {
-        Name,
-        Education,
-        Skill,
-        Project,
-        Work,
-        Profile
-    }
+  components: {
+    Name,
+    Education,
+    Skill,
+    Project,
+    Work,
+    Profile,
+  },
 };
 </script>
 
@@ -34,4 +33,3 @@ export default {
 .main
   width 800px
 </style>
-
