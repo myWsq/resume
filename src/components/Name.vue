@@ -18,10 +18,20 @@
         <label class="inline-block w-18">电子邮件:</label>
         <a href="mailto:wsq961@outlook.com"> wsq961@outlook.com </a>
       </div>
-      <div>
+      <div v-if="phone">
         <label class="inline-block w-18">手机号码:</label>
-        18810256515
+        {{ phone }}
       </div>
     </div>
   </div>
 </template>
+
+<script lang="ts" setup>
+import { onMounted, ref } from "vue";
+
+const phone = ref<string | null>(null);
+
+onMounted(() => {
+  phone.value = localStorage.getItem("phone");
+});
+</script>
