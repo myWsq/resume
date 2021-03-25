@@ -1,0 +1,26 @@
+{
+  "/home/runner/work/resume/resume/node_modules/@vue/shared/dist/shared.esm-bundler.js": [
+    "/resume/assets/vendor.844bebbc.js"
+  ],
+  "/home/runner/work/resume/resume/node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [
+    "/resume/assets/vendor.844bebbc.js"
+  ],
+  "/home/runner/work/resume/resume/node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [
+    "/resume/assets/vendor.844bebbc.js"
+  ],
+  "/home/runner/work/resume/resume/node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [
+    "/resume/assets/vendor.844bebbc.js"
+  ],
+  "/home/runner/work/resume/resume/node_modules/vue/dist/vue.runtime.esm-bundler.js": [
+    "/resume/assets/vendor.844bebbc.js"
+  ],
+  "/home/runner/work/resume/resume/node_modules/vite-ssg/dist/chunk.TXS6LJMB.mjs": [
+    "/resume/assets/vendor.844bebbc.js"
+  ],
+  "/home/runner/work/resume/resume/node_modules/@vueuse/head/dist/index.mjs": [
+    "/resume/assets/vendor.844bebbc.js"
+  ],
+  "/home/runner/work/resume/resume/node_modules/vite-ssg/dist/client/single-page.mjs": [
+    "/resume/assets/vendor.844bebbc.js"
+  ]
+}
