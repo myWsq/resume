@@ -6,7 +6,7 @@
     <Skill></Skill>
     <Work></Work>
     <Project></Project>
-    <Others></Others>
+    <OpenSource></OpenSource>
   </article>
 </template>
 

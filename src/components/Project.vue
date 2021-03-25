@@ -1,6 +1,6 @@
 <template>
   <div>
-    <h2>主要项目</h2>
+    <h2>项目经历</h2>
     <SpaceBetween>
       <strong>
         MIUI 12.5 -
@@ -112,6 +112,26 @@
         <span>
           一期迭代结束，已完成核心功能和大部分附加功能，目前部门内测中
         </span>
+      </li>
+    </ul>
+    <SpaceBetween class="mt-10">
+      <strong> 其他 </strong>
+    </SpaceBetween>
+    <ul>
+      <li>
+        <span>
+          各类 Node.js SDK：小米对象存储 SDK、小米消息队列 SDK、小米团队管理
+          SDK、小米安全网关 SDK ……
+        </span>
+      </li>
+      <li>
+        <span>
+          MIUI 文档 Gatsby Theme：完整的 Gatsby 主题，符合 MIUI 设计风格，扩展
+          Markdown 语法；
+        </span>
+      </li>
+      <li>
+        <span> 数万字文档和技术文章输出。</span>
       </li>
     </ul>
   </div>
